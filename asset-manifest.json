@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactwebpage/static/css/main.0a6d438c.css",
+    "main.js": "/reactwebpage/static/js/main.e0efeba9.js",
+    "static/media/dweep io 1.svg": "/reactwebpage/static/media/dweep io 1.e4254d945f7f28a4a6889b8fe41b54c9.svg",
+    "static/media/LinkedinLogo.svg": "/reactwebpage/static/media/LinkedinLogo.f4466724897a183e3fb08c10ea588640.svg",
+    "static/media/InstagramLogo.svg": "/reactwebpage/static/media/InstagramLogo.266cf007a759696816dcabb491c74025.svg",
+    "index.html": "/reactwebpage/index.html",
+    "main.0a6d438c.css.map": "/reactwebpage/static/css/main.0a6d438c.css.map",
+    "main.e0efeba9.js.map": "/reactwebpage/static/js/main.e0efeba9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a6d438c.css",
+    "static/js/main.e0efeba9.js"
+  ]
+}
